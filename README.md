@@ -1,4 +1,4 @@
-# linux-iac-shellscript
+# Infraestrutura como Código (IaC) - Linux 
 
 Este repositório contém dois scripts em Bash que simulam a criação de uma infraestrutura básica em ambiente Linux, seguindo os princípios de **Infraestrutura como Código (IaC)**.
 
@@ -64,6 +64,6 @@ Automatizar o provisionamento de:
    sudo ./criar_user.sh
    ```
 
-## 🚀 Autor
-
-Projeto desenvolvido por **Eduardo** como parte do desafio de projeto da [DIO](https://www.dio.me/).
+---
+### Eduardo O. Lentz
+💻 Portfolio | 🔗 LinkedIn | 📂 GitHub | 📝 Medium | 📸 Instagram
